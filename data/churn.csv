@@ -17,3 +17,9 @@ customer_id,age,contract,monthly_charges,churn
 16,33,two-year,19.9,1
 17,53,one-year,59.5,0
 18,33,month-to-month,105.6,1
+13,34,month-to-month,89.1,1
+14,44,one-year,29.3,0
+15,24,month-to-month,73.2,0
+16,34,two-year,19.9,1
+17,54,one-year,59.5,0
+18,34,month-to-month,105.6,0
