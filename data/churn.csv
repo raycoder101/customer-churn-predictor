@@ -5,3 +5,15 @@ customer_id,age,contract,monthly_charges,churn
 4,31,two-year,19.9,0
 5,51,one-year,59.5,0
 6,39,month-to-month,105.6,1
+7,32,month-to-month,89.1,1
+8,42,one-year,29.3,1
+9,22,month-to-month,73.2,1
+10,32,two-year,19.9,0
+11,52,one-year,59.5,1
+12,32,month-to-month,105.6,1
+13,33,month-to-month,89.1,1
+14,43,one-year,29.3,0
+15,23,month-to-month,73.2,1
+16,33,two-year,19.9,1
+17,53,one-year,59.5,0
+18,33,month-to-month,105.6,1
