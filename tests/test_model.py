@@ -1,6 +1,5 @@
 from src.models.churn_model import load_data, train_model
 
-
 def test_load_data():
     df = load_data("data/churn.csv")
     assert not df.empty

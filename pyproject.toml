@@ -15,8 +15,14 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "customer_churn_predictor", from = "src"}]
-
+name = "customer-churn-predictor"
+version = "0.1.0"
+description = "A demo AI project to predict customer churn with logistic regression"
+authors = ["Ray Coder <raycoder@email.com>"]
+readme = "README.md"
+packages = [
+    { include = "src" }
+]
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.4.1"
